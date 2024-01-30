@@ -8,7 +8,7 @@
 
 🌱 Currently, I'm seeking opportunities to kick-start my professional journey as a backend developer. I'm open to both full-time positions and internships that will allow me to continue learning and growing in a supportive environment.
 
-📫 If you have any interesting opportunities or would like to connect, please fell free to reach out to me via [Linkdin](https://www.linkedin.com/ln/silamlakdesye). I'm eager to connect with professionals in the industry and exchange ideas.
+📫 If you have any interesting opportunities or would like to connect, please fell free to reach out to me via [Linkdin](https://www.linkedin.com/in/silamlakdesye). I'm eager to connect with professionals in the industry and exchange ideas.
 
 🌐 Please explore my GitHub repositories below to see some of the projects I have worked on during my program. I'm continuously updating my skills and working on new projects, so stay tuned for more exciting developments!
 
